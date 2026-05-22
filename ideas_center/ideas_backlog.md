@@ -14,24 +14,19 @@ Questo spazio raccoglie le idee di evoluzione del format Artsy, i feedback ricor
 *   **Idea**: Negli ultimi 30 minuti, allestire una griglia o dei fili da bucato con mollette dove appendere tutti i disegni creati durante la serata. Permette a tutti di ammirare le opere degli altri prima di ripartire.
 *   **Stato**: *Pronta per il test alla prossima edizione*.
 
+### 🎙️ Confessionale
+*   **Idea**: Sistema per fare in modo che le persone registrino reazioni in tempo reale dell'evento, raccontando cosa succede e cosa no, in stile reality show.
+*   **Stato**: *Da definire*.
+
+### 🌳 Artsy al Parco (Colletta - Torino)
+*   **Idea**: Progetto all'aperto dove si allestisce con casse per fare musica elettronica per tutti. L'idea è di collaborare con il collettivo "Cuore" che si occupa di musica.
+*   **Stato**: *Proposta in sviluppo*.
+
+### 🤸‍♂️ Collaborazione Parkour
+*   **Idea**: Espandere Artsy includendo una proposta legata al parkour. L'idea è stata condivisa con Pippo, Anna, Oss e Clara (i 4 ragazzi che tengono i corsi), che si sono mostrati entusiasti. Ci terranno aggiornati per organizzarsi.
+*   **Stato**: *In esplorazione*.
+
 ### 🏺 Collaborazioni Artigianali
 *   **Idea**: Invitare ceramisti o artigiani locali per curare aree speciali a rotazione.
 *   **Stato**: *In definizione*.
 
----
-
-## 📈 Trend Culturali da Monitorare
-*   **Cozy Creative Spaces**: Il bisogno diffuso di attività lente per staccare dal digitale (tendenza in forte crescita tra i giovani adulti).
-*   **Silent Book Clubs / Silent Jam**: Momenti di silenzio condiviso interrotti solo da improvvisazioni musicali a volume bassissimo.
-*   **Upcycling ed Economia Circolare**: Attenzione altissima verso il riutilizzo dei materiali. L'area cucito e ricamo su vestiti usati risponde perfettamente a questo trend.
-
----
-
-## 💬 Feedback della Community (Archivio Sintetico)
-
-> "È la prima volta dopo anni che riesco a colorare senza pensare se il disegno farà schifo o meno."  
-> — *Partecipante Artsy #12*
-
-> "L'area scrittura era un po' troppo vicina alla batteria della Jam Session, faticavo a concentrarmi."  
-> — *Feedback Artsy al Parco (Edizione Settembre)*  
-> *👉 Azione correttiva: allontanare fisicamente le stazioni o moderare il volume delle percussioni.*

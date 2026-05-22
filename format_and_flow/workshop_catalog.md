@@ -25,20 +25,3 @@ Nelle edizioni di Artsy, oltre alle aree stabili del "fare", viene spesso lancia
 *   **Obiettivo**: Esplorare il movimento del corpo nello spazio, la coordinazione e il respiro.
 *   **Svolgimento**: Breve sessione di riscaldamento focalizzata sul fluire del corpo e sulla propriocezione.
 
----
-
-## 💡 Idee per Workshop Futuri (In Backlog)
-
-1.  **Cianotipia Solare (Cyanotype)**: Sfruttare la luce solare per imprimere foglie ed elementi naturali su carta fotosensibile (ideale per edizioni *Artsy al Parco*).
-2.  **Scrittura Collettiva "Cadavre Exquis"**: Gioco surrealista in cui ciascuno scrive una riga senza vedere quella precedente, creando poesie surreali da leggere ad alta voce.
-3.  **Upcycling Creativo**: Portare un vecchio capo d'abbigliamento da casa e decorarlo con vernici per tessuto o toppe ricamate sul momento.
-
----
-
-## 📝 Come Proporre un Nuovo Workshop
-
-Ogni nuovo workshop deve rispettare i seguenti requisiti:
-1.  **Accessibilità**: Non deve richiedere competenze pregresse complesse. Chiunque deve poter partecipare e ottenere un piccolo risultato.
-2.  **Basso setup operativo**: I materiali devono essere facili da reperire e non pericolosi/tossici.
-3.  **Durata contenuta**: Massimo 45 minuti per lasciare spazio all'esplorazione libera.
-4.  **Inclusione**: Deve promuovere la conversazione e la mentorship reciproca.
