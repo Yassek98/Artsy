@@ -1,0 +1,11 @@
+# Windows thumbnail database
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Editor & System Files
+.vscode/
+.idea/
+*.swp
+*.tmp
+*~
