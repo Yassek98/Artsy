@@ -9,9 +9,9 @@
 
 ## 📅 Dettagli dell'Accordo per la Stagione 2026
 
-*   **Periodo di Lancio**: Fine Settembre / Ottobre 2026 (la stagione estiva fino all'11 luglio è già al completo).
-*   **Frequenza**: **Una volta al mese** (fase sperimentale per la stagione breve Settembre-Dicembre, con possibilità di espansione a Gennaio 2027).
-*   **Giorno e Orario**: Fissato il **Sabato** (il lunedì è il giorno di chiusura fisica di Antro).
+*   **Periodo di Lancio**: A partire da **Settembre 2026**.
+*   **Giorno e Orario**: Fissato il **Sabato** (il lunedì è il giorno di chiusura fisica di Antro). Questo permette potenzialmente di estendere l'evento partendo fin dal pomeriggio.
+*   **Frequenza**: Inizialmente **1 volta al mese** (fase sperimentale). Se l'andamento sarà positivo, la frequenza verrà aumentata per il resto dell'anno.
     *   Orario evento standard: **18:30 - 22:30**. Alle 22:30 tutti fuori per il rispetto del condominio.
     *   Possibilità futura di anticipare l'inizio al pomeriggio (visto il grande spazio a disposizione).
     *   Definizione delle date esatte entro **Luglio 2026**.

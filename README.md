@@ -27,6 +27,7 @@ graph TD
     FF --> FF3["[workshop_catalog.md](file:///c:/Users/39327/Desktop/YassekProg/Artsy/format_and_flow/workshop_catalog.md)"]
 
     VC --> VC1["[antro_space.md](file:///c:/Users/39327/Desktop/YassekProg/Artsy/venues_and_collaborations/antro_space.md)"]
+    VC --> VC2["[AntroXArtsy.md](file:///c:/Users/39327/Desktop/YassekProg/Artsy/venues_and_collaborations/AntroXArtsy.md)"]
 
     OP --> OP1["[materials_and_setup.md](file:///c:/Users/39327/Desktop/YassekProg/Artsy/operations/materials_and_setup.md)"]
     OP --> OP2["[roles_and_responsibilities.md](file:///c:/Users/39327/Desktop/YassekProg/Artsy/operations/roles_and_responsibilities.md)"]
@@ -51,6 +52,7 @@ Clicca sui link sottostanti per accedere direttamente ai dettagli delle varie ma
 
 ### 🏛️ 3. Spazi & Collaborazioni
 *   [Spazio Antro — Dettagli e Note](file:///c:/Users/39327/Desktop/YassekProg/Artsy/venues_and_collaborations/antro_space.md) — Il punto cardine della stagione Autunno 2026. Regole cruciali per cibo (scontrini, ingredienti tracciabili, no cucina casalinga), bar (esclusiva dello spazio), cashless (offerte tramite QR code) e orari.
+*   [Verbale Incontro Ufficiale (MD)](file:///c:/Users/39327/Desktop/YassekProg/Artsy/venues_and_collaborations/AntroXArtsy.md) / [(Versione PDF)](file:///c:/Users/39327/Desktop/YassekProg/Artsy/venues_and_collaborations/AntroXArtsy.pdf) — Il verbale ufficiale da inoltrare ad Antro con gli accordi presi.
 
 ### ⚙️ 4. Operazioni & Logistica
 *   [Materiali e Allestimento](file:///c:/Users/39327/Desktop/YassekProg/Artsy/operations/materials_and_setup.md) — Inventario dei consumabili Artsy e attrezzatura già integrata di Antro (pianoforte, batteria, proiettore).

@@ -8,7 +8,7 @@
 
 I responsabili di Antro introducono lo spazio, definendolo come un centro di collaborazione culturale e di aggregazione volto a sviluppare e supportare proposte creative in modo gratuito (dalla logistica alla comunicazione), basandosi sul lavoro di una solida rete di volontari.
 
-* **Requisito di Accesso:** Per frequentare lo spazio e partecipare alle attività è obbligatorio il tesseramento ARCI (costo 5€, validità anno solare).
+* **Requisito di Accesso:** Per frequentare lo spazio e partecipare alle attività è obbligatorio il tesseramento (costo 5€, validità anno solare).
 * **Interdisciplinarietà:** Antro predilige eventi che sappiano far dialogare diverse discipline, accorpando più proposte in eventi "diffusi" che occupano l'intera struttura.
 
 ---
@@ -57,11 +57,7 @@ Il format si adatta perfettamente alla conformazione multidisciplinare di Antro 
 
 L'obiettivo comune è creare una ricorrenza fissa che generi abitudine nella community.
 
-* **Frequenza e Giorno:** Si opta per una cadenza di **1 incontro al mese**, da svolgersi di **Sabato**. Il sabato permette ad Antro di destinare l'intero spazio all'evento e consente di estendere l'orario partendo già dal pomeriggio (es. dalle ore **17:00** alle **22:00**).
-* **Fase di Prova:** Il progetto partirà in via sperimentale per la prima parte della stagione (fino alla chiusura estiva di Antro dell'11 luglio).
-* **Futuro Sviluppo:** Entro il mese di luglio verranno tirate le somme dell'esperienza per strutturare e inserire stabilmente Artsy nel palinsesto della stagione successiva (Settembre – Dicembre 2026).
-* **Prossimo Step:** Apertura di un **Form di Manifestazione di Interesse** non vincolante su Instagram per sondare i numeri della community e calibrare i posti.
+* **Avvio e Giorno:** Il progetto partirà ufficialmente da **Settembre 2026**. Il giorno scelto per gli eventi è il **Sabato**, che permette di sfruttare l'intero spazio e offre la possibilità di estendere l'orario partendo già dal pomeriggio (es. dalle ore **17:00** alle **22:00**).
+* **Frequenza Iniziale e Sviluppo:** Si partirà in via sperimentale con **1 incontro al mese**. Se l'andamento sarà positivo, ci sarà la possibilità di migliorare e aumentare la frequenza degli eventi per il resto dell'anno.
+* **Gestione Serate (Idea):** Per ogni serata verrà aperto un form per permettere alle persone di "prenotarsi". L'obiettivo principale del modulo sarà gestire e tracciare in modo accurato la logistica del cibo condiviso e farsi un'idea dei numeri.
 
----
-
-*Icaro Group rimanderà il presente documento riassuntivo ad Antro per confermare i dettagli e bloccare ufficialmente la prima data utile.*
